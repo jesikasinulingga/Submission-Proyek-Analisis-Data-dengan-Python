@@ -12,10 +12,10 @@ MyProfil Dicoding: Dicoding Indonesia
 # Berkas
 Proyek_Analisis_Data.ipynb: Notebook Jupyter yang berisi analisis data.
 dashboard/: Direktori yang berisi aplikasi dashboard Streamlit.
+
 # Temuan Kunci
-Tren Musiman: Analisis menunjukkan bahwa musim panas mengalami jumlah penyewaan sepeda tertinggi, yang menandakan popularitasnya karena kondisi cuaca yang mendukung.
-Perbandingan Hari Kerja vs Akhir Pekan: Terdapat median penyewaan sepeda yang sedikit lebih tinggi pada hari kerja, tetapi akhir pekan menunjukkan variasi yang lebih besar, menandakan adanya fluktuasi dalam penyewaan.
-Tren Tahunan: Pengguna terdaftar secara konsisten menyewa lebih banyak sepeda sepanjang tahun, dengan peningkatan yang signifikan pada pengguna kasual selama bulan-bulan musim panas.
+Tren Musiman: Analisis menunjukkan bahwa musim panas mengalami jumlah penyewaan sepeda tertinggi, menunjukkan popularitasnya karena kondisi cuaca yang mendukung.
+Perbandingan Hari Kerja vs Akhir Pekan: Terdapat median penyewaan sepeda yang sedikit lebih tinggi pada hari kerja, tetapi akhir pekan menunjukkan variasi yang lebih besar, menunjukkan fluktuasi dalam penyewaan.
 
 # Cara Menjalankan
 Notebook Jupyter dapat dilihat langsung di GitHub atau dijalankan dalam lingkungan yang mendukung Jupyter Notebook Python.
