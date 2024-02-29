@@ -21,6 +21,7 @@ Perbandingan Hari Kerja vs Akhir Pekan: Terdapat median penyewaan sepeda yang se
 Notebook Jupyter dapat dilihat langsung di GitHub atau dijalankan dalam lingkungan yang mendukung Jupyter Notebook Python.
 https://raw.githubusercontent.com/jesikasinulingga/Submission-Proyek-Analisis-Data-dengan-Python/main/Proyek_Analisis_Data_Jesica.ipynb 
 Dashboard Streamlit dapat dijalankan secara lokal dengan navigasi ke direktori dashboard/ dan menjalankan streamlit run dashboard.py.
+https://raw.githubusercontent.com/jesikasinulingga/Submission-Proyek-Analisis-Data-dengan-Python/main/dashboard_jesica.py 
 
 # Dashboard
 Dashboard Streamlit mencakup fitur-fitur berikut:
